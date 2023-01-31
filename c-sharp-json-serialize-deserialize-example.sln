@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonSerializeDeserialize", "JsonSerializeDeserialize\JsonSerializeDeserialize.csproj", "{401CF7F6-B189-47E1-A0BF-0889C1E631D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonSerializeDeserializeTest", "JsonSerializeDeserializeTest\JsonSerializeDeserializeTest.csproj", "{B1CBA2A5-DFAD-47B1-98BC-F773497C0316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{401CF7F6-B189-47E1-A0BF-0889C1E631D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{401CF7F6-B189-47E1-A0BF-0889C1E631D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{401CF7F6-B189-47E1-A0BF-0889C1E631D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{401CF7F6-B189-47E1-A0BF-0889C1E631D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CBA2A5-DFAD-47B1-98BC-F773497C0316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CBA2A5-DFAD-47B1-98BC-F773497C0316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CBA2A5-DFAD-47B1-98BC-F773497C0316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CBA2A5-DFAD-47B1-98BC-F773497C0316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
